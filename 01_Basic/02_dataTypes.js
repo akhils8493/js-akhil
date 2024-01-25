@@ -22,3 +22,6 @@ let isLoggedIn = false
 console.log(name)
 
 console.log(typeof age);
+
+console.log(typeof null);
+console.log(typeof undefined);
